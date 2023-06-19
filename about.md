@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About 
-newtab: https://www.diffense.com
+newtab: https://www.diffense.co.kr
 ---
 
 
